@@ -11,7 +11,7 @@ export const GameSection = () => {
                 const data = await response.json();
                 setGameData(data);
             } catch (error) {
-                console.error('Error fetching JSON data:', error)
+                console.error('Error fetching JSON data:', error.message);
             }
         }
 
