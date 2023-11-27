@@ -1,0 +1,17 @@
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 250px;
+    height: fit-content;
+    border: 2px solid #ccc;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    border-radius: 8px;
+    background-color: #eee;
+}
+
+.cart-container h1 {
+    font-weight: 700;
+    font-size: x-large;
+}
