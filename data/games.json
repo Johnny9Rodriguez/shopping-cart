@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Oddworld Abe's Exoddus",
+        "genre": "Adventure / Platformer",
+        "developer": "Oddworld Inhabitants",
+        "publisher": "GT Interactive Software",
+        "year": 1999,
+        "price": 24.99,
+        "coverId": "abesexoddus"
+    },
+    {
+        "id": 2,
+        "title": "Metal Gear Solid",
+        "genre": "Action / Adventure",
+        "developer": "KCE Japan",
+        "publisher": "Konami",
+        "year": 1999,
+        "price": 39.99,
+        "coverId": "metalgearsolid"
+    },
+    {
+        "id": 3,
+        "title": "Silent Hill",
+        "genre": "Survival Horror / Adventure",
+        "developer": "KCET",
+        "publisher": "Konami",
+        "year": 1999,
+        "price": 54.99,
+        "coverId": "silenthill"
+    },
+    {
+        "id": 4,
+        "title": "Final Fantasy VIII",
+        "genre": "RPG",
+        "developer": "Squaresoft",
+        "publisher": "Squaresoft",
+        "year": 1999,
+        "price": 34.99,
+        "coverId": "finalfantasy8"
+    },
+    {
+        "id": 5,
+        "title": "Parasite Eve 2",
+        "genre": "Survival Horror",
+        "developer": "Squaresoft",
+        "publisher": "Squaresoft",
+        "year": 2000,
+        "price": 49.99,
+        "coverId": "parasiteeve2"
+    },
+    {
+        "id": 6,
+        "title": "Dino Crisis",
+        "genre": "Action / Survival Horror",
+        "developer": "Capcom",
+        "publisher": "Virgin Interactive",
+        "year": 1999,
+        "price": 29.99,
+        "coverId": "dinocrisis"
+    },
+    {
+        "id": 7,
+        "title": "Resident Evil 2",
+        "genre": "Survival Horror",
+        "developer": "Capcom",
+        "publisher": "Virgin Interactive",
+        "year": 1998,
+        "price": 44.99,
+        "coverId": "residentevil2"
+    },
+    {
+        "id": 8,
+        "title": "Crash Bandicoot 2 - Cortex Strikes Back",
+        "genre": "Action / Platformer",
+        "developer": "Naughty Doc, Inc.",
+        "publisher": "Sony",
+        "year": 1997,
+        "price": 19.99,
+        "coverId": "crashbandicoot2"
+    }
+]
