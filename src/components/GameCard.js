@@ -19,7 +19,7 @@ export const GameCard = ({ props }) => {
     return (
         <div className='game-card-container'>
             <img
-                src={`/images/covers/${props.coverId}.webp`}
+                src={process.env.PUBLIC_URL + `/images/covers/${props.coverId}.webp`}
                 alt='abesexoddus'
             />
             <div className='game-card-info'>

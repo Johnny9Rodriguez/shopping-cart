@@ -26,11 +26,13 @@ const CartEntry = ({ id, title, price }) => {
 export const Cart = () => {
     const { cart, dispatch } = useCartContext();
 
+    console.log(process.env.PUBLIC_URL);
+
     return (
         <div className='cart-container'>
             <div className='cart-header'>
                 <img
-                    src='/images/ps_logo.webp'
+                    src={process.env.PUBLIC_URL + '/images/ps_logo.webp'}
                     alt='ps_logo'
                 />
                 <h1>Shopping Cart</h1>

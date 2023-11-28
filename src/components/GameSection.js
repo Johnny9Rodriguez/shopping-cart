@@ -7,7 +7,7 @@ export const GameSection = () => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const response = await fetch('/data/games.json');
+                const response = await fetch(process.env.PUBLIC_URL + '/data/games.json');
                 const data = await response.json();
                 setGameData(data);
             } catch (error) {
